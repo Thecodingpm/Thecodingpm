@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Maaz</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/597923288057883525/](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1360%2F0*7Q3yvSIv_t0ioJ-Z.gif&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwjByeCyzt-DAxV1mScCHRbLAEoQMygyegUIARDqAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=coding%20anime%20gif&ved=2ahUKEwjByeCyzt-DAxV1mScCHRbLAEoQMygyegUIARDqAQ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodingpm&label=Profile%20views&color=0e75b6&style=flat" alt="thecodingpm" /> </p>
