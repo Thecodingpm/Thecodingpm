@@ -1,123 +1,102 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pentest Project - Vulnerability Testing</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-      background: linear-gradient(135deg, #0f172a, #1e293b);
-      color: #f8fafc;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    header img {
-      width: 100px;
-      border-radius: 50%;
-      box-shadow: 0 0 15px rgba(255,255,255,0.2);
-    }
-    h1 {
-      margin-top: 15px;
-      font-size: 2.2rem;
-      font-weight: 700;
-      color: #38bdf8;
-    }
-    p {
-      font-size: 1rem;
-      max-width: 600px;
-      text-align: center;
-      color: #94a3b8;
-    }
-    .container {
-      background: rgba(255, 255, 255, 0.05);
-      padding: 30px;
-      border-radius: 20px;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
-      width: 90%;
-      max-width: 600px;
-      text-align: center;
-    }
-    input[type="text"], input[type="password"] {
-      width: 80%;
-      padding: 12px;
-      border: none;
-      border-radius: 8px;
-      margin: 10px 0;
-      background: rgba(255, 255, 255, 0.1);
-      color: #fff;
-      font-size: 1rem;
-    }
-    input:focus {
-      outline: 2px solid #38bdf8;
-      background: rgba(255, 255, 255, 0.15);
-    }
-    button {
-      background: #38bdf8;
-      border: none;
-      padding: 12px 30px;
-      border-radius: 8px;
-      font-size: 1rem;
-      color: #0f172a;
-      cursor: pointer;
-      font-weight: 600;
-      margin-top: 15px;
-      transition: all 0.3s ease;
-    }
-    button:hover {
-      background: #0ea5e9;
-      transform: translateY(-2px);
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9rem;
-      color: #64748b;
-    }
-    .icon {
-      width: 60px;
-      margin: 15px 10px;
-      opacity: 0.8;
-    }
-    .icons {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <img src="https://cdn-icons-png.flaticon.com/512/3845/3845731.png" alt="Security Icon">
-    <h1>Pentest Vulnerability Testing</h1>
-    <p>Test your web application’s vulnerabilities in a safe and secure environment. Built with Flask & Burp Suite.</p>
-  </header>
+<!--
+  Professional GitHub README for Ahmad Maaz
+  Copy everything below into your README.md and replace placeholders:
+  - YOUR_GITHUB_USERNAME
+  - YOUR_PORTFOLIO_URL
+  - YOUR_TWITTER
+  - YOUR_LINKEDIN
+  - YOUR_PROJECT_REPO_LINKS
+  - EMAIL
+-->
 
-  <div class="container">
-    <h2>Login Form</h2>
-    <form action="/login" method="POST">
-      <input type="text" name="username" placeholder="Username" required><br>
-      <input type="password" name="password" placeholder="Password" required><br>
-      <button type="submit">Login</button>
-    </form>
-  </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding" width="220"/>
+</p>
 
-  <div class="icons">
-    <img class="icon" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Burp Icon">
-    <img class="icon" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Python Icon">
-    <img class="icon" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="Flask Icon">
-  </div>
+# Hi — I’m **Ahmad Maaz** 👋  
+### Full-Stack Developer · React / Node.js · Building fast, usable web apps
 
-  <footer>
-    © 2025 Pentest Project | Developed for educational and ethical use only.
-  </footer>
-</body>
-</html>
+[![Website](https://img.shields.io/badge/portfolio-Website-blue?style=flat-square&logo=google-chrome)](https://YOUR_PORTFOLIO_URL) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+## 👨‍💻 About Me
+I ship delightful, maintainable web apps and developer tools. I love clean UI, pragmatic architecture, and fast feedback loops.  
+- 🔭 Currently building: **small SaaS tools & developer utilities**  
+- 🌱 Learning: **Next.js**, advanced React patterns, **SaaS scaling**  
+- 🛠️ Main focus: React, Node.js, Tailwind CSS, MongoDB, REST & realtime systems  
+- 📫 Reach me: **ahmadmuaaz292@gmail.com**
+
+---
+
+## 🚀 Quick Links
+- Portfolio: https://YOUR_PORTFOLIO_URL  
+- Twitter: https://twitter.com/YOUR_TWITTER  
+- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN  
+- Projects: https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,bootstrap,git,docker,vercel" alt="tech icons"/>
+</p>
+
+---
+
+## 🔍 Featured Projects
+> Replace each example with your repo link & a concise achievement line.
+
+### 🔗 [LinkShort — Tiny URL service](https://github.com/YOUR_GITHUB_USERNAME/linkshort)  
+Next.js + Redis. Fast redirects, custom domains, simple analytics.
+
+### 📝 [AI Notes — Smart note app](https://github.com/YOUR_GITHUB_USERNAME/ai-notes)  
+React + Node.js + OpenAI — auto-summaries, tags, search.
+
+### 🛒 [Marketplace — Demo e-commerce](https://github.com/YOUR_GITHUB_USERNAME/marketplace)  
+Realtime cart updates, payments integration, admin dashboard.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Activity & Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧩 What I’m learning / building
+- Server components & advanced SSR with **Next.js**  
+- Building robust developer-facing **micro-SaaS** products  
+- Integrating **AI** features safely in web apps
+
+---
+
+## ✨ Open for
+- Freelance web / frontend work  
+- Mentorship for React & full-stack juniors  
+- Collaboration on small SaaS or open-source tooling
+
+---
+
+## 📫 Contact
+- Email: **ahmadmuaaz292@gmail.com**  
+- Twitter: [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)  
+- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
+---
+
+<p align="center">
+  <em>“Make things people love to use.”</em> — <strong>Ahmad Maaz</strong>
+</p>
