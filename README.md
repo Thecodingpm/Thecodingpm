@@ -1,17 +1,17 @@
 <center>
-<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
+<h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
 <div align="left">
 
 <div align="center">
-<img height="200" width="800" alt="Welcome GIF" src="[[https://i.pinimg.com/originals/be/51/11/be5111b4f7b764568f1ad20394a562f3.gif](https://pin.it/EWPxDnI3D)](https://i.pinimg.com/originals/be/51/11/be5111b4f7b764568f1ad20394a562f3.gif)">
+<img height="200" width="800" alt="Welcome GIF" src="https://i.pinimg.com/originals/be/51/11/be5111b4f7b764568f1ad20394a562f3.gif">
 </div>
 
 </br>
 
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~
 
-### - I'm **Muhammad Ahmad**  
+### - I'm **Muhammad Ahmad **   
 A passionate **Full Stack Developer** & **Founder of [10xeon](https://github.com/10xeon)** — building modern digital products with performance, creativity, and precision.  
 I love designing powerful systems, crafting clean UIs, and bringing innovative ideas to life with code.  
 
