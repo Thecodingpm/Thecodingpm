@@ -1,81 +1,123 @@
-<!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Ahmad Maaz</h1>
-<h3 align="center">🚀 Full Stack Developer | Crafting Modern Web Experiences</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pentest Project - Vulnerability Testing</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: #f8fafc;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    header img {
+      width: 100px;
+      border-radius: 50%;
+      box-shadow: 0 0 15px rgba(255,255,255,0.2);
+    }
+    h1 {
+      margin-top: 15px;
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: #38bdf8;
+    }
+    p {
+      font-size: 1rem;
+      max-width: 600px;
+      text-align: center;
+      color: #94a3b8;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+      width: 90%;
+      max-width: 600px;
+      text-align: center;
+    }
+    input[type="text"], input[type="password"] {
+      width: 80%;
+      padding: 12px;
+      border: none;
+      border-radius: 8px;
+      margin: 10px 0;
+      background: rgba(255, 255, 255, 0.1);
+      color: #fff;
+      font-size: 1rem;
+    }
+    input:focus {
+      outline: 2px solid #38bdf8;
+      background: rgba(255, 255, 255, 0.15);
+    }
+    button {
+      background: #38bdf8;
+      border: none;
+      padding: 12px 30px;
+      border-radius: 8px;
+      font-size: 1rem;
+      color: #0f172a;
+      cursor: pointer;
+      font-weight: 600;
+      margin-top: 15px;
+      transition: all 0.3s ease;
+    }
+    button:hover {
+      background: #0ea5e9;
+      transform: translateY(-2px);
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #64748b;
+    }
+    .icon {
+      width: 60px;
+      margin: 15px 10px;
+      opacity: 0.8;
+    }
+    .icons {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://cdn-icons-png.flaticon.com/512/3845/3845731.png" alt="Security Icon">
+    <h1>Pentest Vulnerability Testing</h1>
+    <p>Test your web application’s vulnerabilities in a safe and secure environment. Built with Flask & Burp Suite.</p>
+  </header>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/56/e42656e5a1d2a2d20b63f5f6f0d8f5d5.gif" alt="Coding" width="400"/>
-</p>
+  <div class="container">
+    <h2>Login Form</h2>
+    <form action="/login" method="POST">
+      <input type="text" name="username" placeholder="Username" required><br>
+      <input type="password" name="password" placeholder="Password" required><br>
+      <button type="submit">Login</button>
+    </form>
+  </div>
 
----
+  <div class="icons">
+    <img class="icon" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Burp Icon">
+    <img class="icon" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Python Icon">
+    <img class="icon" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="Flask Icon">
+  </div>
 
-### 🧠 About Me  
-💡 Passionate about building interactive, fast, and scalable web apps using **React**, **Next.js**, and **Node.js**.  
-🎯 I focus on **clean UI, strong backend logic, and seamless user experience**.  
-📚 Currently exploring **Next.js**, **WebSockets**, and **AI integrations**.  
-📫 Reach me at **ahmadmuaaz292@gmail.com**
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/ahmadmuaaz" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmad-muazz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/the_coding_pm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### ⚙️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,linux,vscode,figma" />
-</p>
-
----
-
-### 🧩 My Projects
-#### 🪶 [AI Screen Recorder](https://github.com/thecodingpm/ai-screen-recorder)
-🎥 Records screen + generates subtitles and descriptions automatically using AI.  
-**Stack:** React, Node.js, OpenAI API
-
-#### 💬 [Realtime Chat App](https://github.com/thecodingpm/realtime-chat)
-💭 Chat instantly with users using WebSocket and Firebase integration.  
-**Stack:** React, Firebase, Express
-
-#### 💼 [Portfolio Website](https://github.com/thecodingpm/portfolio)
-🖥️ Sleek personal portfolio built with Next.js + Tailwind CSS.  
-**Stack:** Next.js, Tailwind, Vercel
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecodingpm&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodingpm&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodingpm&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧠 Currently Exploring
-- 🧩 **AI in Web Development**
-- 🧭 **Next.js Advanced Server Actions**
-- ⚡ **Building SaaS tools**
-
----
-
-### ✨ Quote I Live By
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-<p align="center">💙 Made with passion by <b>Ahmad Maaz</b></p>
+  <footer>
+    © 2025 Pentest Project | Developed for educational and ethical use only.
+  </footer>
+</body>
+</html>
