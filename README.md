@@ -1,90 +1,81 @@
-# Hi 👋, I'm Ahmad Maaz
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Ahmad Maaz</h1>
+<h3 align="center">🚀 Full Stack Developer | Crafting Modern Web Experiences</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding" width="220" />
+  <img src="https://i.pinimg.com/originals/e4/26/56/e42656e5a1d2a2d20b63f5f6f0d8f5d5.gif" alt="Coding" width="400"/>
 </p>
 
-<h3 align="center">Full-Stack Developer • React & Node.js • Building tidy, high-impact web apps</h3>
+---
+
+### 🧠 About Me  
+💡 Passionate about building interactive, fast, and scalable web apps using **React**, **Next.js**, and **Node.js**.  
+🎯 I focus on **clean UI, strong backend logic, and seamless user experience**.  
+📚 Currently exploring **Next.js**, **WebSockets**, and **AI integrations**.  
+📫 Reach me at **ahmadmuaaz292@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://twitter.com/ahmadmuaaz" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmad-muazz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/the_coding_pm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚙️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,linux,vscode,figma" />
+</p>
+
+---
+
+### 🧩 My Projects
+#### 🪶 [AI Screen Recorder](https://github.com/thecodingpm/ai-screen-recorder)
+🎥 Records screen + generates subtitles and descriptions automatically using AI.  
+**Stack:** React, Node.js, OpenAI API
+
+#### 💬 [Realtime Chat App](https://github.com/thecodingpm/realtime-chat)
+💭 Chat instantly with users using WebSocket and Firebase integration.  
+**Stack:** React, Firebase, Express
+
+#### 💼 [Portfolio Website](https://github.com/thecodingpm/portfolio)
+🖥️ Sleek personal portfolio built with Next.js + Tailwind CSS.  
+**Stack:** Next.js, Tailwind, Vercel
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thecodingpm&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodingpm&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodingpm&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Currently Exploring
+- 🧩 **AI in Web Development**
+- 🧭 **Next.js Advanced Server Actions**
+- ⚡ **Building SaaS tools**
+
+---
+
+### ✨ Quote I Live By
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
 
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/portfolio-Website-blue?style=flat-square&logo=google-chrome" alt="portfolio" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="twitter" /></a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
----
-
-## About me
-
-I’m a full-stack developer from Pakistan who enjoys turning ideas into production-ready web apps. I focus on clean code, useful UX, and shipping fast.  
-- 🔭 I’m currently building small SaaS tools and learning advanced React patterns.  
-- 🌱 Learning: Next.js, Cloud deployments, and backend architecture.  
-- 💬 Ask me about: MERN stack, deployment, and developer UX.  
-- 📫 Email: **ahmadmuaaz292@gmail.com**
-
----
-
-## Connect
-
-<p>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">Twitter</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">Instagram</a>
-</p>
-
----
-
-## Tech stack
-
-<p>
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" />
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" />
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" />
-  <img alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" />
-  <img alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28" />
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" />
-  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" />
-  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" />
-</p>
-
----
-
-## Featured projects
-
-> Replace demo links and descriptions with your real projects and short achievements.
-
-### 🔗 [Project One — Link Shortener](https://github.com/YOUR_GITHUB_USERNAME/linkshort)  
-A tiny, fast URL shortener built with Next.js and Redis. Features custom domains and analytics dashboard.
-
-### 📝 [Project Two — AI Notes](https://github.com/YOUR_GITHUB_USERNAME/ai-notes)  
-AI-assisted note app that summarizes and tags content. Built with React, Node.js and OpenAI APIs.
-
-### 🛒 [Project Three — Marketplace](https://github.com/YOUR_GITHUB_USERNAME/marketplace)  
-Demo marketplace with secure payments and real-time updates using WebSockets.
-
----
-
-## GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## Writing & talks
-
-- Blog: *How I built an AI note app* (link to your blog)  
-- Guide: *Deploying with Docker and GitHub Actions*
-
----
-
-## Want to collaborate?
-
-I’m open to freelance projects and collaborations. If you have an idea or opportunity — let's talk.  
-- ✉️ **ahmadmuaaz292@gmail.com**  
-- 🐦 [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)
-
----
-
-<p align="center">Made with ❤️ • Happy coding!</p>
+<p align="center">💙 Made with passion by <b>Ahmad Maaz</b></p>
