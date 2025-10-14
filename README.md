@@ -1,5 +1,5 @@
 <center>
-<h1 align="center">~ 𝓚𝓸𝓷𝓲𝓬𝓱𝓲𝔀𝓪! 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
+<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
 <div align="left">
 
@@ -11,7 +11,7 @@
 
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~
 
-### - I'm **Muhammad Ahmad Muaaz** 💫  
+### - I'm **Muhammad Ahmad**  
 A passionate **Full Stack Developer** & **Founder of [10xeon](https://github.com/10xeon)** — building modern digital products with performance, creativity, and precision.  
 I love designing powerful systems, crafting clean UIs, and bringing innovative ideas to life with code.  
 
