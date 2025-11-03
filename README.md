@@ -12,7 +12,7 @@
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~
 
 ### - I'm **Muhammad Ahmad **   
-A passionate **Full Stack Developer** & **Founder of [10xeon](https://github.com/10xeon)** — building modern digital products with performance, creativity, and precision.  
+A passionate **Full Stack Developer** & **Founder of [10xeon](10xeon.vercel.app)** — building modern digital products with performance, creativity, and precision.  
 I love designing powerful systems, crafting clean UIs, and bringing innovative ideas to life with code.  
 
 <img height="200" width="350" alt="Coding GIF" align="right" src="https://i.pinimg.com/originals/be/6d/ed/be6ded46b365626b0812a41b75875d59.gif">
